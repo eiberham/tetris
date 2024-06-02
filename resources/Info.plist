@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Tetris</string>
+	<key>CFBundleName</key>
+	<string>Tetris</string>
+	<key>CFBundleDisplayName</key>
+	<string>Tetris</string>
+	<key>CFBundleIconFile</key>
+	<string>icon.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.eiberham.tetris</string>
+	<key>CFBundleLocalizations</key>
+	<string>en</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSpokenName</key>
+	<string>Tetris</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2024 Abraham Cedeno</string>
+	<key>CFBundleVersion</key>
+	<string>0.1.0</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.13.0</string>
+	<key>LSRequiresCarbon</key>
+  <true/>
+  <key>NSHighResolutionCapable</key>
+  <true/>
+	<key>CSResourcesFileMapped</key>
+  <true/>
+</dict>
+</plist>

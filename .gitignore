@@ -1,0 +1,7 @@
+macos
+*.aseprite
+.DS_Store
+**/target/**
+Cargo.lock
+*.txt
+.env
